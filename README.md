@@ -1,2 +1,2 @@
 # SmartTouch
-A wireless glove that acts as a mouse.
+A group effort to bring a wireless glove that acts as a mouse.
